@@ -1,6 +1,6 @@
 {
   "name": "cloudingsdk",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "clouding.io sdk",
   "keywords": [
     "clouding.iod",
@@ -9,6 +9,7 @@
   ],
   "license": "MIT",
   "author": "Juan Bautista",
+  "repository": "https://github.com/flitware-oss/cloudingsdk",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
