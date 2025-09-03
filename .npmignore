@@ -1,0 +1,37 @@
+# Source files
+src/
+tests/
+*.test.ts
+*.spec.ts
+
+# Configuration files
+.eslintrc.json
+.prettierrc
+jest.config.js
+tsconfig.json
+
+# Development files
+.gitignore
+.npmignore
+
+# Coverage and build artifacts
+coverage/
+*.tsbuildinfo
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+.eslintcache
+node_modules/
+
+# Environment files
+.env*
+
+# Documentation (keep README.md)
+docs/
+examples/
