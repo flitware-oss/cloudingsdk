@@ -4,7 +4,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Official TypeScript/JavaScript SDK for [Clouding.io](https://clouding.io) - A comprehensive cloud infrastructure management platform.
+TypeScript/JavaScript SDK for [Clouding.io](https://clouding.io) - A comprehensive cloud infrastructure management platform.
 
 ## Table of Contents
 
