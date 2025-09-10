@@ -2,24 +2,20 @@
   "compilerOptions": {
     "target": "ES2022",
     "strict": true,
+    "declaration": true,
     "preserveConstEnums": true,
     "sourceMap": true,
-    "module": "ES2022",
-    "moduleResolution": "bundler",
+    "module": "CommonJS",
+    "moduleResolution": "node10",
+    "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "experimentalDecorators": true,
     "baseUrl": "./",
-    "outDir": "./dist",
-    "paths": {
-}
+    "outDir": "./lib",
+    "paths": {}
   },
-  "exclude": [
-    "node_modules",
-    "dist"
-  ],
-  "include": [
-    "src/**/*.ts"
-  ]
+  "exclude": ["node_modules", "dist"],
+  "include": ["src/**/*.ts"]
 }
