@@ -1,6 +1,6 @@
 # CloudingSDK
 
-[![npm version](https://badge.fury.io/js/cloudingsdk.svg)](https://badge.fury.io/js/cloudingsdk)
+[![npm version](https://badge.fury.io/js/cloudingsdk.svg?v)](https://badge.fury.io/js/cloudingsdk)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
