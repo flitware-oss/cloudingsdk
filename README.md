@@ -582,5 +582,3 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 - Bilingual documentation (ES/EN)
 
 ---
-
-**Made with ❤️ for the Clouding.io community**
